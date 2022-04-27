@@ -1,0 +1,66 @@
+text {
+    display: block;
+    margin: 3em;
+}
+
+text::before {
+    content: '[FS ' attr(folio) ' ' attr(side) ']'
+}
+
+p, div {
+    display: block;
+    margin: 1em 0;
+}
+
+date {
+    color: red;
+}
+
+date:hover::before {
+    content: "[" attr(when) "] ";
+}
+
+
+[type]::before {
+    content: "[" attr(type) "]\a";
+    white-space: pre;
+}
+
+lb::before {
+    content: '\a';
+    white-space: pre;
+}
+
+signatures::before {
+    content: '[signatures] ';
+}
+
+gap::before {
+    content: '[...' attr(reason) '...]';
+    color: darkred;
+}
+
+hi[rend="superscript"] {
+    vertical-align: super;
+    font-size: smaller;
+}
+
+hi[rend="subscript"] {
+    vertical-align: sub;
+    font-size: smaller;
+}
+
+hi[rend="insert-below"] {
+    position: relative;
+    top: 0.8em;
+    left: -1em;
+    display: inline-block;
+    font-size: smaller;
+    width: 0;
+    overflow-x: visible;
+    white-space: nowrap;
+}
+
+hi[rend="underline"] {
+    text-decoration: underline;
+}

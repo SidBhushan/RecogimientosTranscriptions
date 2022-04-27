@@ -1,0 +1,31 @@
+<?xml-stylesheet href="../style.css"?>
+<TEI>
+    <text folio="4" side="V">
+        <p>
+            Exmo S.<hi rend="superscript">or</hi>
+        </p>
+        <p>
+            La rea q.<hi rend="superscript">e</hi> habla en este expedíente se processó por el año<lb/> de <date when="1773">setenta y tres</date> y víendola con toda equídad se puso en<lb/> libertad apercebida el mismo año de orden de este Vírreynato<lb/> sín que tuviesse de prision arríva de quatro messes y dias<lb/> Posteríormenté en fines de sept.<hi rend="superscript">re</hi> de setenta y síete se vol<lb/>víó á aprehender y processar por el delicto de tepachera<lb/> (q.<hi rend="superscript">e</hi> fué el q.<hi rend="superscript">e</hi> motívó tambien su prímera prissión), y ha<lb/>viéndose condenado como reinsídente á quantro años de Re<lb/>cogidas con la confirmacíon necescaría, se puso en ellos<lb/> el día <date when="1778-04-10">díes de Abril de setenta y ocho</date>, segun todo consta de<lb/> sus respectívas causas: por lo que es claro q.<hi rend="superscript">e</hi> apenas lleva dos<lb/> de su condena, q.<hi rend="superscript">e</hi> falta á la verdad en quentar lo contrariós y<lb/> que enteramente es síníestro y ajeno de la realídad quanto<lb/> propone. Mexico y <date when="1780-05-17">Mayo 17. de 1780</date>
+        </p>
+        <p>
+            Exmo S.<hi rend="superscript">or</hi>
+        </p>
+        <p>
+            <signatures>Pedro Valiente</signatures>
+        </p>
+        <div type="response below">
+            <p>
+                México <date when="1780-05-23">23 de Mayo de 1780</date>
+            </p>
+            <p>
+                Respecto á lo q.<hi rend="superscript">e</hi> informa el Juez de la<lb/> Acordada, pongase el aviso correspond.te<lb/> de esta provid.a p.<hi rend="superscript">a</hi> q.<hi rend="superscript">e</hi> cumpla esta Rea<lb/> la Sentencia á q.<hi rend="superscript">e</hi> fue condenada.
+            </p>
+            <p>
+                <signatures>Mayorga</signatures>
+            </p>
+            <p>
+                Fho en <date when="1780-05-31">31</date>
+            </p>
+        </div>
+    </text>
+</TEI>

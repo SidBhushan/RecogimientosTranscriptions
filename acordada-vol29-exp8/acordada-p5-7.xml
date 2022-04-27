@@ -1,0 +1,36 @@
+<?xml-stylesheet href="../style.css"?>
+<TEI>
+    <text folio="78" side="V">
+        <p>
+        Exmo. Señor.<lb/> El Fiscal de R<hi rend="superscript">l</hi> Haz<hi rend="superscript">da</hi>
+        </p>
+    </text>
+    <text folio="79" side="F">
+        <p>
+            encargado de lo criminal en vista de las Cer<lb/>tificaciones con que Josefa Basquez àcredita<lb/> la enfermedad de Tomasa Cipres su madre,<lb/> y la dificultad de Curarse en el Recogimiento<lb/> en que se halla; estima proprio de la equidad de<lb/> V.E. se defiera à su solicitud para ocurrir<lb/> en lo posible al peligro que padece: por lo que<lb/> podrà mandar se libre orden al Juez Prov<lb/>isional de la Acordada para que la haga pasar<lb/> a un Hospital donde se cure y asista con el<lb/> esmero y prolijidad que pide su accidente,<lb/> previniendo se de aviso quando estè sana.
+        </p>
+        <p>
+            Mexico y <date when="1781-06-12">Junio 12. de 1781</date>.
+        </p>
+        <p>
+            <signatures>Posada</signatures>
+        </p>
+        <p>
+            Me
+        </p>
+    </text>
+    <text folio="79" side="V">
+        <p>
+            xico <date when="1781-06-16">16 de Junio de 1781</date>. 
+        </p>
+        <p>
+            Como pide el S<hi rend="superscript">or</hi> Fiscal Posada.
+        </p>
+        <p>
+            <signatures>Mayorga</signatures>
+        </p>
+        <p>
+            Fho.
+        </p>
+    </text>
+</TEI>

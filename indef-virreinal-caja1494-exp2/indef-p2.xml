@@ -1,0 +1,14 @@
+<?xml-stylesheet href="../style.css"?>
+<TEI>
+    <text folio="2" side="F">
+        <p>
+            Quedo enterado p.<hi rend="superscript">or</hi> de Ynforme<lb/> de v.s. de fha de ayer de la<lb/> justicía con q<hi rend="superscript">e</hi> há imp.<hi rend="superscript">to</hi> la<lb/> Pena q<hi rend="superscript">e</hi> devidamente sufre p.<hi rend="superscript">r</hi> sus<lb/> excesos, a M.<hi rend="superscript">a</hi> Ant.<hi rend="superscript">a</hi> Estrada.
+        </p>
+        <p>
+            Dios &amp;t mexico <date when="1790-10-07">7 de<lb/> oct.<hi rend="superscript">e</hi> de 1790</date>
+        </p>
+        <p type="sent to">
+            A la R<hi rend="superscript">l</hi> sala
+        </p>
+    </text>
+</TEI>

@@ -1,0 +1,19 @@
+<?xml-stylesheet href="../style.css"?>
+<TEI>
+    <text folio="3" side="F">
+        <div type="left col response">
+            <p>Mexico <date when="1790-10-03">3 de Oct de 1790</date></p>
+            <p>Ynforme el Jues que ha sentenciado a la sig.<hi rend="superscript">te</hi></p>
+            <p><signatures/></p>
+        </div>
+        <p type="main text">
+            Maria Antonia Estrada puesta a las<lb/> plantas de Vueselencia con el mas profun<lb/>do rendim.<hi rend="superscript">to</hi> q.<hi rend="superscript">e</hi> devo, ago presente que lle<lb/>vando cinco dias de presa estando yo en<lb/> mi Cassa Jueves en la noche entró un<lb/> Caballero q.<hi rend="superscript">e</hi> ni lo conosco a preguntar<lb/> por ua Señora q.<hi rend="superscript">e</hi> la qual estava arri<lb/>mada en mi dicha casa, q.<hi rend="superscript">e</hi> yo me hé<lb/> mantenido de maestra de miga p.<hi rend="superscript">a</hi> tener<lb/> un pedazo de pan, y pagar mi casa luego<lb/> al punto q.<hi rend="superscript">e</hi> entró la ronda y me llevó pre<lb/>sa sin tener yo mas delito q.<hi rend="superscript">e</hi> el q.<hi rend="superscript">e</hi> llevo di<lb/>cho, luego luego â otro dia me mandaron dar<lb/> veinte y cinco asotes y q.<hi rend="superscript">e</hi> me quitaron el<lb/> pelo y tres años de recogidas â lo q.<hi rend="superscript">e</hi> me han<lb/> sentenciado y sin dar yo motivo para tanta<lb/> crueldad sin tomarme declaracion ni haver<lb/>se Ynformado de mi vida y mis procederes p.<hi rend="superscript">s</hi><lb/> daré yo testigo de como soy muger de hon<lb/>rra y assi pido â V.E. q.<hi rend="superscript">e</hi> p.<hi rend="superscript">r</hi> la corona del<lb/> Rey, y la de nuestra Señora de Guadalupe<lb/> se duela de mí y siquiera p.<hi rend="superscript">r</hi> ser una muger<lb/> sola sin tener mas amparo q.<hi rend="superscript">e</hi> Dios que no<lb/> padesca yo en las Recogidas pues no há sido<lb/> mas de una tema y esperó en la caridad de<lb/> V.E q.<hi rend="superscript">e</hi> mé ha de dar mi Liverta p.<hi rend="superscript">r</hi> nuestra S.<hi rend="superscript">ra</hi><lb/> de la conpsencion.
+        </p>
+        <p>
+            Mesico <date when="1790-10-02">2 de Oct.<hi rend="superscript">e</hi> de 1790</date>
+        </p>
+        <p>
+            <signatures>Maria ant.<hi rend="superscript">a</hi> estrada</signatures>
+        </p>
+    </text>
+</TEI>

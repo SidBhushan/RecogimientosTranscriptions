@@ -1,0 +1,30 @@
+<?xml-stylesheet href="../style.css"?>
+<TEI>
+    <text folio="312" side="F">
+        <div type="left col response">
+            <p>
+                Mexico <date when="1782-04-02">2 de<lb/> Abril de 1782.</date><lb/> Informe el Ju<lb/>ez de Bebidas<lb/> Prohividas.
+            </p>
+            <p>
+                <signatures>Mayorga</signatures>
+            </p>
+        </div>
+        <p>
+            Exmo. S,<hi rend="superscript">r</hi>
+        </p>
+        <p>
+            María Josefa Angulo Yndía, víuda de Mar<lb/>cos de la Cruz de setenta Años de edad; en<lb/> el Recoxim.to de S.<hi rend="superscript">ta</hi> María Exípsíaca; puesta<lb/> en las plantas de V Exá. con el maz Zumízo ren<lb/>dímíento de mí venerasión; Dígo q<hi rend="superscript">e</hi> abra el<lb/> tiempo de dos meses que padesco dho Recoximíen<lb/>to; y otros cuatro en la R<hi rend="superscript">l</hi> Carzel de la Cíudad, de<lb/> la Puebla de los Ang.<hi rend="superscript">s</hi>, por Haberme aprehen<lb/>dído, el R<hi rend="superscript">l</hi> tríbunal de la Acordada, con una cor<lb/>ta cantídad de Pulque Malífícado, sobre culla<lb/> causa se me Prozeso y sentensío por V Exá. ha cua<lb/>tro años de dho Recoxím,<hi rend="superscript">to</hi><lb/> en culla atensíon exprímentando como,
+        </p>
+    </text>
+    <text folio="312" side="V">
+        <p>
+            exprímento la grande ynsufísíensía, que [me]<lb/> asíste ha poder cunplír los expresados cuatro<lb/> años por cuasa de allarme Abansada de edad<lb/> y al mísmo modo enferma y cargada de [Hijos]<lb/> por quíenes para Manutenernos. Hube de<lb/> tratar un corto tíenpo en dha, vevída prohi<lb/>bída, por lo que rendídam,<hi rend="superscript">te</hi>, suplíco a la acre<lb/>dítada píedad de V Exá. rendídam.<hi rend="superscript">te</hi> sir<lb/>ba mandar, se me commuten los sitados<lb/> cuatros años de mí condena, Ha sufrirlos<lb/> en deposíto, partícular, dando una fuer<lb/>za conpetente, como ygualm.<hi rend="superscript">te</hi> Testigos [de]<lb/> allarme de la misma forma q<hi rend="superscript">e</hi> subscríbo, y de<lb/> no haber otra ocasíon; Tratado en la en[un]<lb/>siada vevída Prohívída; Por tanto
+        </p>
+        <p>
+            A V. Exá. Probe a como he <gap reason="covered in image"/><lb/> infra ut supra;
+        </p>
+        <p>
+            No firmo por no saber
+        </p>
+    </text>
+</TEI>

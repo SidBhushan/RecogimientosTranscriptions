@@ -1,0 +1,11 @@
+<?xml-stylesheet href="../style.css"?>
+<TEI>
+    <text folio="2" side="F">
+        <p>
+            <date when="1780-05">Mayo de 1780</date>
+        </p>
+        <p>
+            M.<hi rend="superscript">a</hi> Juliana Pedroso pide su sol<lb/>tura de recojidas
+        </p>
+    </text>
+</TEI>

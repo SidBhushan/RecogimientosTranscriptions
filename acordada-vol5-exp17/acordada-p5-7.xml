@@ -1,0 +1,51 @@
+<?xml-stylesheet href="../style.css"?>
+<TEI>
+    <text folio="313" side="V">
+        <p>
+            Ex<hi rend="superscript">mo</hi> S<hi rend="superscript">r</hi>,<lb/>El Físcal de S.M. Dicé, q<hi rend="superscript">e</hi>
+        </p>
+    </text>
+    <text folio="314" side="F">
+        <p>
+            Mediante lo q<hi rend="superscript">e</hi> ínforma el Juez<lb/> prívatívo de Bebídas prohí<lb/>bídas, y los incómbenientes,<lb/> q<hi rend="superscript">e</hi> á la rectítud Superíor de<lb/> V.E. tiene representados el<lb/> Fiscál, de hacerse un solo e<lb/>jemplar de condescendencía, en<lb/> instancias de igual naturale<lb/>za; puede V.E. declarar, no<lb/> haver lugar á la q<hi rend="superscript">e</hi> promuébe<lb/> Maria Josefa Angulo en el es<lb/>crito, q<hi rend="superscript">e</hi> precede. Mejico <date when="1782-04-16">16 de Abríl<lb/> de 1782</date>.
+        </p>
+        <p>
+            <signatures>Alva</signatures>
+        </p>
+        <p>
+            Me,
+        </p>
+    </text>
+    <text folio="314" side="V">
+        <p>
+            xico <date when="1782-04-20">20 de Abril de 1782</date>,,
+        </p>
+        <p>
+            Como pide el S<hi rend="superscript">or</hi> Fiscal del Crimen<lb/> y remítase este Expediénte al Gober<lb/>nador de Puebla para que haga<lb/> entender la providencia a la intere<lb/>sada, bolviendolo despues a mis manos
+        </p>
+        <p>
+            <signatures>Mayorga</signatures>
+        </p>
+        <div type="response below">
+            <p>
+                En la Ciudad de la Puebla de los Angeles ã veinte y <date when="1782-04-06">seis de Abril<lb/> de mil setecientos ochenta y dos</date> el Señor D.<hi rend="superscript">n</hi> Gaspar de Portala, coro<lb/>nel de los Reales Exercitos Govern.or Politico y Militar en ello<lb/> su Jurisdiccion por S. Mag.d haviendo visto el Superior Decreto<lb/> que antesede del Exmõ Señor Virrey de este Réino, en su d[ebido]<lb/> obedecimiento mando, pase el presente Es.no al Recoxim.to de [St.a]<lb/> Maria Exipciaca en donde se halla la íntereseada, y le [ha]<lb/>ga saver su contenido, cuia diligencia practicada se d<gap reason="edge of page"/><lb/>elva ã las superiores manos. de dho. S.or Exmõ asi lo pro<lb/>veyo.
+            </p>
+            <p>
+                <signatures>Gaspar de Portala</signatures>
+            </p>
+        </div>
+        <div type="response below">
+            <p>
+                Fran<hi rend="superscript">co</hi> de Soares<lb/>Ess<hi rend="superscript">no</hi> R.l Pub.co y de <gap reason="unclear"/>
+            </p>
+            <p>
+                En la ciudad de los Ang<hi rend="superscript">s</hi> ã veinte y <date when="1782-04-06">seis de Abril de [el año dos]<lb/>cientos ochenta</date> y dos Yo el Es<hi rend="superscript">no</hi> testeando en el Recoxi[m<hi rend="superscript">to</hi>]<lb/> Santa Maria Exipciaca presente Maria Josefa Angulo en<lb/> su Perzona le lei ê hize saver, lo mandado pór la superioridad<lb/> del Exmõ Señor Virrey de este Reyno, y en su înteligencia di<lb/>xo lo oye esto respondio de q<hi rend="superscript">e</hi> doi fée
+            </p>
+            <p>
+                <signatures>
+                    Fran<hi rend="superscript">co</hi> de Soares<lb/>Ess<hi rend="superscript">no</hi> R<hi rend="superscript">l</hi> Pub<hi rend="superscript">co</hi> y de <gap reason="unclear"/>
+                </signatures>
+            </p>
+        </div>
+    </text>
+</TEI>

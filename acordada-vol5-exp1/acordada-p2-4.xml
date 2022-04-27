@@ -1,0 +1,36 @@
+<?xml-stylesheet href="../style.css"?>
+<TEI>
+    <text folio="3" side="F">
+        <div type="left col response">
+            <p>
+                Mexico <date when="1780-05-12">12 de Mayo de 1780.</date>
+            </p>
+            <p>
+                Ynforme el Juez de la Acordada.
+            </p>
+            <p><signatures/></p>
+        </div>
+        <p>
+            Exmõ Señor
+        </p>
+        <p>
+            Maria Juliana Pedrosa vezina de la<lb/> Ciudad de la Puebla, puesta ã las plantas<lb/> de V Ex.a con en mayor rendimiento Digo<lb/> que de order del tribunal de la Acordada<lb/> se me puso en este Recoximiento de<lb/> Santa María Egipciaca, por el reato de<lb/> haver expendido la bebida prohivida que<lb/> nombran Tepache, y haviendo logrado<lb/> se me alzase la reclusion, y mantenido<lb/>me siete meses fuera, se me volbio à<lb/> continuar la captura en la que permanens<lb/>co, dos años y siete meses, con las incom<lb/>odidades que atrae el paraje, sin haver<lb/> dado nuevo motivo, y como los infelices<lb/> siempre solicitan patrosinio, para salir
+        </p>
+    </text>
+    <text folio="3" side="V">
+        <p>
+            de sus cuitas, yo he escojido el mas as<lb/><gap reason="edge of page"/>tajado en conocimiento de que el gene<lb/>roso y compasibo corazon de V Ex.<hi rend="superscript">a</hi> si<lb/>empre se exercita en protexer a los des<lb/>validos, acto en que reluce su caridad y<lb/> su Zelo, y realzadas circumstancias, si<lb/>endo innata esta misericordia que pu<lb/>blican todos los Pobres, y diariamen<lb/>te se manifiestan, esperando de la<lb/> benebolencia de V Ex.<hi rend="superscript">a</hi> el que yo sea<lb/> una de tantas como experimentan<lb/> su benefica bondad, redimiendome<lb/> de la prision que sufro, apartando<lb/>me de tantas miserias, y necesidades<lb/> que paro, sin intermision ni alivio,<lb/> y siendo evidente que donde ay mas<lb/> angustia brilla con ventajas la pro<lb/>teccion, no pienso falte en mi esta<lb/> regla, õ que exepcion de ella, suf<lb/>riendome mas dolores, por que V Ex.<hi rend="superscript">a</hi><lb/> no tiene falla en el Amor a los des<lb/>dichados , por mas que se le presenten
+        </p>
+    </text>
+    <text folio="4" side="F">
+        <p>
+            desnudos de meritos, y cargados de fra<lb/>gilidad, que es todo el ser de mi reato<lb/> sin malisioas sintomas que agraven mi<lb/> culpa, mayormente quando la cometida<lb/> tiente tanto tiempo de compurgada, con<lb/> el aumento de mis enfermedades, que de<lb/> dia en dia acresientan su malignidad, sin<lb/> esperanza de mas declinacion que el que<lb/> le ministre el auxilio de V Ex.<hi rend="superscript">a</hi> en uso de<lb/> su Piedad, la que mediante.
+        </p>
+        <p>
+            A V Ex.<hi rend="superscript">a</hi> suplico se sirva de aplicarme la gra<lb/>cia que impetró en que recevire beneficio<lb/> de su magnifisencia. Juro en forma no<lb/> proseder de malicia, y en lo necesario &amp;ca.
+        </p>
+        <p>
+            No firmo por no saver.
+        </p>
+    </text>
+</TEI>
